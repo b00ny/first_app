@@ -9,7 +9,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/development.rb" changelist="b8ef3efa-7c16-418f-a7ee-fbb512543efe" time="1404512998358" ignored="false" />
     <file path="$PROJECT_DIR$/../first_app3/Gemfile" changelist="b8ef3efa-7c16-418f-a7ee-fbb512543efe" time="1404518849422" ignored="false" />
-    <file path="/.gitignore" changelist="b8ef3efa-7c16-418f-a7ee-fbb512543efe" time="1404527292710" ignored="false" />
+    <file path="/.gitignore" changelist="b8ef3efa-7c16-418f-a7ee-fbb512543efe" time="1404527552750" ignored="false" />
     <file path="/Dummy.txt" changelist="b8ef3efa-7c16-418f-a7ee-fbb512543efe" time="1404525460802" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +33,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="41" selection-start="483" selection-end="483" vertical-scroll-proportion="0.2467742">
+            <state line="19" column="35" selection-start="496" selection-end="496" vertical-scroll-proportion="0.26048386">
               <folding />
             </state>
           </provider>
@@ -422,7 +422,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="41" selection-start="483" selection-end="483" vertical-scroll-proportion="0.2467742">
+        <state line="19" column="35" selection-start="496" selection-end="496" vertical-scroll-proportion="0.26048386">
           <folding />
         </state>
       </provider>
