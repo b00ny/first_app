@@ -7,6 +7,7 @@
     <file path="/development.rb" changelist="b8ef3efa-7c16-418f-a7ee-fbb512543efe" time="1404512998358" ignored="false" />
     <file path="$PROJECT_DIR$/../first_app3/Gemfile" changelist="b8ef3efa-7c16-418f-a7ee-fbb512543efe" time="1404518849422" ignored="false" />
     <file path="/.gitignore" changelist="b8ef3efa-7c16-418f-a7ee-fbb512543efe" time="1404520629352" ignored="false" />
+    <file path="/README.md" changelist="b8ef3efa-7c16-418f-a7ee-fbb512543efe" time="1404524887255" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +27,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="0" selection-end="477" vertical-scroll-proportion="0.23306452">
+            <state line="17" column="0" selection-start="0" selection-end="477" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="44" selection-start="0" selection-end="181" vertical-scroll-proportion="0.027709862">
               <folding />
             </state>
           </provider>
@@ -48,6 +58,7 @@
         <option value="$PROJECT_DIR$/config/environments/development.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -385,7 +396,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="0" selection-end="477" vertical-scroll-proportion="0.23306452">
+        <state line="17" column="0" selection-start="0" selection-end="477" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="44" selection-start="0" selection-end="181" vertical-scroll-proportion="0.027709862">
           <folding />
         </state>
       </provider>
